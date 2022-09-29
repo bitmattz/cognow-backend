@@ -7,6 +7,15 @@ GITHUB DO PROJETO: https://github.com/bitmattz/cognow-backend
 PARA ACESSAR O PROJETO, BASTA ACESSAR O IP **45.79.132.8:3333**
 E SEGUIR OS PASSOS JUNTAMENTE COM OS TESTES PRESENTES NESSE ARQUIVO
 
+Para rodar este projeto você precisa seguir os seguintes passos:
+
+- Instalar **yarn** no seu computador
+- **Ter** um banco de dados **postgres**
+- Configurar o **ormconfig.json** para se conectar com o banco de dados
+- rodar **“yarn install”** para instalar as dependências
+- rodar **“yarn typeorm migration:run”** para rodar todas as migrations do banco de dados para criar as tabelas
+- e por fim rodar “**yarn dev:server”** para rodar o programa
+
 # WEB SERVICE COGNOW
 
 O projeto se concentra atualmente em **3 endpoints**:
