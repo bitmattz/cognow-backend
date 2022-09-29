@@ -35,27 +35,27 @@ export class CreateLesson1664286031035 implements MigrationInterface {
                     isNullable: true,
                 },
                 {
-                    name: 'text-content',
+                    name: 'text_content',
                     type: 'varchar',
                     isNullable: true,
                 },
                 {
-                    name: 'image-content',
+                    name: 'image_content',
                     type: 'varchar',
                     isNullable: true,
                 },
                 {
-                    name: 'video-content',
+                    name: 'video_content',
                     type: 'varchar',
                     isNullable: true,
                 },
                 {
-                    name: 'audio-content',
+                    name: 'audio_content',
                     type: 'varchar',
                     isNullable: true,
                 },
                 {
-                    name: 'embed-content',
+                    name: 'embed_content',
                     type: 'varchar',
                     isNullable: true,
                 },

@@ -22,20 +22,20 @@ class Lessons{
   @Column()
   banner: string;
 
-  @Column('text-content')
-  textContent: string;
+  @Column()
+  text_content: string;
 
-  @Column('image-content')
-  imageContent: string;
+  @Column()
+  image_content: string;
 
-  @Column('video-content')
-  videoContent: string;
+  @Column()
+  video_content: string;
 
-  @Column('audio-content')
-  audioContent: string;
+  @Column()
+  audio_content: string;
 
-  @Column('embed-content')
-  embedContent: string;
+  @Column()
+  embed_content: string;
 
   @CreateDateColumn()
   created_at: Date;
