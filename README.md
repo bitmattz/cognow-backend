@@ -4,7 +4,7 @@ GRUPO DEVSTOPS
 
 GITHUB DO PROJETO: https://github.com/bitmattz/cognow-backend
 
-PARA ACESSAR O PROJETO, BASTA ACESSAR O IP **45.79.132.8:3333**
+PARA ACESSAR O PROJETO, BASTA ACESSAR O PROJETO
 E SEGUIR OS PASSOS JUNTAMENTE COM OS TESTES PRESENTES NESSE ARQUIVO
 
 Para rodar este projeto você precisa seguir os seguintes passos:
